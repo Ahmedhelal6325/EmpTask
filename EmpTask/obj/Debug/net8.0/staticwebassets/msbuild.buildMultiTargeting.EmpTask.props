@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EmpTask.props" />
+</Project>
